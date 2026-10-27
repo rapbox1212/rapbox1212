@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/rapbox1212.png" alt="Joseph Andrean De La Cruz" width="180" height="180" style="border-radius: 50%; border: 3px solid rgba(56, 189, 248, 0.8); box-shadow: 0 0 24px rgba(56, 189, 248, 0.2); background: #020b16; padding: 4px;" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Joseph Andrean De La Cruz 👋</h1>
   <h3>Computer Science Graduate | Full-Stack Software Engineer & Solutions Architect</h3>
   <p>Results-driven software engineer with over 5 years of industry experience. I specialize in high-impact, custom software solutions, thriving on complex technical challenges. From scalable monorepo systems to client-facing products, I build resilient software that solves real business problems.</p>
@@ -116,18 +120,18 @@
 
 ---
 
-### 📈 GitHub Contributions.
+### GitHub Contributions.
 
-<div align="center" style="background: #020b16; border: 1px solid rgba(148, 163, 184, 0.18); border-radius: 18px; padding: 28px 24px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.75); max-width: 920px; margin: 20px auto;">
-  <div style="display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap;">
-    <div style="text-align: left; flex: 1; min-width: 280px;">
+<div align="center" style="max-width: 980px; margin: 0 auto; background: #020b16; border: 1px solid rgba(148, 163, 184, 0.18); border-radius: 12px; padding: 28px 24px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.75);">
+  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 34px; flex-wrap: wrap; margin-bottom: 18px;">
+    <div style="text-align: left; min-width: 340px; flex: 1;">
       <h3 style="margin: 0 0 18px 0; font-size: 28px; color: #f8fafc; font-weight: 800; letter-spacing: 0.5px;">Joseph Andrean D. De La Cruz's GitHub Stats</h3>
-      <div style="display: grid; grid-template-columns: 1fr; gap: 10px; font-size: 18px; color: #dbeafe; font-weight: 600;">
-        <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;"><span style="display:flex; align-items:center; gap:10px;"><span style="color:#38bdf8; font-size:22px;">✦</span> Total Stars Earned:</span> <span style="color:#f8fafc;">0</span></div>
-        <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;"><span style="display:flex; align-items:center; gap:10px;"><span style="color:#38bdf8; font-size:22px;">◔</span> Total Commits (last year):</span> <span style="color:#f8fafc;">8</span></div>
-        <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;"><span style="display:flex; align-items:center; gap:10px;"><span style="color:#38bdf8; font-size:22px;">↻</span> Total PRs:</span> <span style="color:#f8fafc;">0</span></div>
-        <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;"><span style="display:flex; align-items:center; gap:10px;"><span style="color:#38bdf8; font-size:22px;">⚑</span> Total Issues:</span> <span style="color:#f8fafc;">0</span></div>
-        <div style="display:flex; align-items:center; justify-content:space-between; gap:16px;"><span style="display:flex; align-items:center; gap:10px;"><span style="color:#38bdf8; font-size:22px;">▣</span> Contributed to (last year):</span> <span style="color:#f8fafc;">0</span></div>
+      <div style="display: grid; grid-template-columns: 1fr; gap: 10px; font-size: 17px; color: #dbeafe; font-weight: 600;">
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;"><span style="display: flex; align-items: center; gap: 10px;"><span style="color: #38bdf8; font-size: 18px;">✦</span> Total Stars Earned:</span> <span style="color: #f8fafc;">0</span></div>
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;"><span style="display: flex; align-items: center; gap: 10px;"><span style="color: #38bdf8; font-size: 18px;">◔</span> Total Commits (last year):</span> <span style="color: #f8fafc;">8</span></div>
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;"><span style="display: flex; align-items: center; gap: 10px;"><span style="color: #38bdf8; font-size: 18px;">↻</span> Total PRs:</span> <span style="color: #f8fafc;">0</span></div>
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;"><span style="display: flex; align-items: center; gap: 10px;"><span style="color: #38bdf8; font-size: 18px;">⚑</span> Total Issues:</span> <span style="color: #f8fafc;">0</span></div>
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px;"><span style="display: flex; align-items: center; gap: 10px;"><span style="color: #38bdf8; font-size: 18px;">▣</span> Contributed to (last year):</span> <span style="color: #f8fafc;">0</span></div>
       </div>
     </div>
 
@@ -137,20 +141,20 @@
     </div>
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 26px; margin-top: 34px; flex-wrap: wrap;">
-    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 22px;">
+  <div style="display: flex; justify-content: center; gap: 26px; flex-wrap: wrap; margin-top: 16px;">
+    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 20px;">
       <div style="font-size: 56px; font-weight: 800; color: #38bdf8; line-height: 1.1;">955</div>
       <div style="color: #e2e8f0; font-size: 16px; margin-top: 8px;">Total Contributions</div>
       <div style="color: #94a3b8; font-size: 14px; margin-top: 8px;">Apr 25, 2019 - Present</div>
     </div>
 
-    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 22px;">
+    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 20px;">
       <div style="width: 120px; height: 120px; border-radius: 50%; border: 6px solid #38bdf8; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center; color: #38bdf8; font-size: 46px; font-weight: 800; box-shadow: 0 0 18px rgba(56, 189, 248, 0.18);">1</div>
       <div style="color: #e2e8f0; font-size: 16px;">Current Streak</div>
       <div style="color: #94a3b8; font-size: 14px; margin-top: 8px;">Oct 27</div>
     </div>
 
-    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 22px;">
+    <div style="min-width: 180px; text-align: center; border-left: 2px solid rgba(148, 163, 184, 0.25); border-right: 2px solid rgba(148, 163, 184, 0.25); padding: 0 20px;">
       <div style="font-size: 56px; font-weight: 800; color: #38bdf8; line-height: 1.1;">13</div>
       <div style="color: #e2e8f0; font-size: 16px; margin-top: 8px;">Longest Streak</div>
       <div style="color: #94a3b8; font-size: 14px; margin-top: 8px;">Aug 9 - Aug 21</div>
