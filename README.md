@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/50002761?v=4" alt="Joseph Andrean De La Cruz" width="180" height="180" style="border-radius: 50%; border: 3px solid #0ea5e9; box-shadow: 0 0 18px rgba(14,165,233,0.35);" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Joseph Andrean De La Cruz 👋</h1>
   <h3>Computer Science Graduate | Full-Stack Software Engineer & Solutions Architect</h3>
   <p>Results-driven software engineer with over 5 years of industry experience. I specialize in high-impact, custom software solutions, thriving on complex technical challenges. From scalable monorepo systems to client-facing platforms, I build resilient, high-performance software that solves real business problems.</p>
