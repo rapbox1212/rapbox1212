@@ -41,9 +41,22 @@
 ---
 
 ### 📜 Certifications.
-* **Cloud & DevOps:** AWS Certified Developer (LinkedIn) | Kubernetes with HELM (Udemy) | Basic Linux (MNET)
-* **AI & Machine Learning:** AI.Magin3D 2025 (Gen AI & 3D Printing) | Databricks for Generative AI | Databricks for Machine Learning | Databricks SQL Analytics & BL
-* **Networking & Development:** CISCO CCNA Network Fundamentals | Global Initial of Next Gen On-Chain Builders (Base PH) | Laravel 11 Portfolio | Vibe Coding Camp | Basic Python
+- **Certificate of Participation** - AI.Magin3D 2025 (Generative AI and 3D Printing)
+- **Certificate of Attendance** - Global initial of next Generation on chain builders (Base PH)
+- **Certificate of Completion** - Basic Linux (MNET)
+- **Certificate of Completion** - Basic Python (MNET)
+- **Certificate of Completion** - Build Portfolio Website in Laravel 11 for Beginners (Udemy)
+- **Certificate of Completion** - AWS Certified Developer (LinkedIn)
+- **Certificate of Completion** - CISCO CCNA network fundamentals and access (LinkedIn)
+- **Certificate of Completion** - What is Generative AI (LinkedIn)
+- **Certificate of Completion** - Databricks for Generative AI (SimpleLearn)
+- **Certificate of Completion** - Databricks for Machine Learning (SimpleLearn)
+- **Certificate of Completion** - Databricks SQL Analytics and BL on Databricks (SimpleLearn)
+- **Certificate of Completion** - Kubernetes with HELM (Udemy)
+- **Certificate of Completion** - Vibe Coding Camp (Udemy)
+- **Certificate of Attendance** - Digital Horizons: Discovering your career growth
+- **Certificate of Facilitator** - Digital Pathways: Bridging knowledge and innovation
+- **Certificate of Participation** - 2025 Iloilo Province Startup Hackathon
 
 ---
 
@@ -67,7 +80,8 @@
 | **Iloilo Harvest** | Digital platform connecting local Iloilo farmers with consumers for sustainable local produce. | Lead Developer |
 | **Foodieapp** | Gamified restaurant discovery & food loyalty mobile app with quests, rewards, and menu indexing. | Lead Mobile Dev |
 | **Kert Hardware** | Web-Based POS, Inventory, Dashboard, and AR system for real-time sales statistics viewing. | Lead Developer |
-| **Happy Pill & Fruity Truity** | Separate Web-Based POS, Inventory, and E-Commerce solutions tailored for their niches. | Lead Developer |
+| **Happy Pill** | Web-Based POS, Inventory, and E-Commerce solution. | Lead Developer |
+| **Fruity Truity** | Web-Based Inventory and POS system. | Lead Developer |
 | **Well Nail Studio** | Web-Based Booking system dedicated to managing nail services and appointments. | Lead Developer |
 
 #### ⛓️ Web3, Blockchain & Organizational Systems
@@ -90,11 +104,15 @@
 | **DisasterAI (EvacuAid)** | Offline-first disaster response SOS app with device compass radar locator & Bluetooth mesh network. | Lead Mobile Dev |
 | **Orbly** | Privacy-first personal assistant executing offline LLMs on-device using llama.rn and NLP parsing. | Lead Mobile Dev |
 | **Sphere Management** | Application for managers to monitor employee tasks, performance, and provide burnout analysis. | Lead Developer |
-| **Automated Watering** | Arduino IoT system using humidity, soil moisture, and weather sensors for condition-based watering. | Lead Developer |
-| **Noosatech & FunRun** | Real-time RFID athletic race timing solution via direct TCP socket communication and public portals. | Lead Developer |
+| **Automated Watering System (IOT)** | Arduino IoT system using humidity, soil moisture, and weather sensors for condition-based watering. | Lead Developer |
+| **Noosatech** | Real-time RFID athletic race timing solution featuring direct TCP socket communication with reader hardware. | Lead Developer |
+| **FunRun Iloilo (IOT)** | An RFID-Based location scanner utilized for tracking runners in an event. | Lead Developer |
 | **TodoStream** | React Native mobile application designed to seamlessly stream the podcast of TODO Radio. | Lead Developer |
-| **Light of Glory** | Corporate website and booking management system for transport and taxi services. | Lead Developer |
-| **Various Web Portals** | Jinyun Dashboard, One Iloilo, Red Cross Blog Site, and Almaken Business Consultancy Services. | Lead Developer |
+| **Light of Glory** | Company website and booking system developed for their transport services (taxi booking). | Lead Developer |
+| **Red Cross (Iloilo) Blog Site** | A platform for RCY Iloilo where the audience can read and submit journals, stories, and information. | Lead Developer |
+| **Jinyun Dashboard** | A web-based networking dashboard. | Lead Developer |
+| **One Iloilo** | A platform designed to assist users in deciding on future travel destinations. | Lead Developer |
+| **Almaken Business Consultancy Services** | A company website providing information and appointment booking functionality. | Lead Developer |
 
 ---
 
