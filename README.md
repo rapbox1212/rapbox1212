@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Joseph Andrean De La Cruz 👋</h1>
   <h3>Computer Science Graduate | Full-Stack Software Engineer & Solutions Architect</h3>
-  <p>Results-driven software engineer with over 5 years of industry experience. I specialize in high-impact, custom software solutions, thriving on complex technical challenges. From scalable monorepos and local-first architectures to blockchain integrations and offline AI, I am dedicated to delivering meaningful results through innovative technology.</p>
+  <p>Results-driven software engineer with over 5 years of industry experience. I specialize in high-impact, custom software solutions, thriving on complex technical challenges. From scalable monorepo systems to client-facing platforms, I build resilient, high-performance software that solves real business problems.</p>
 </div>
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 ### 🚀 About Me.
 - 🎓 **Academics:** Bachelor of Science in Computer Science, University of San Agustin (Class of 2026).
-- 💼 **Professional Experience:** **Senior Developer** at SphereDigital (2019 - Present) & Freelance Full-Stack Developer (2023 - Present). Over 5 years of intensive industrial training engaging directly with CEOs to deploy over 20+ active systems.
+- 💼 **Professional Experience:** **Senior Developer** at SphereDigital (2019 - Present) & Freelance Full-Stack Developer (2023 - Present). Over 5 years of intensive industrial training engaging directly with business and technical stakeholders.
 - 👑 **Leadership:** CTO of Augustinian Developer Society (2025-2026), CTO of Google Developer Student Club - USA (2023-2025), and Lead System Architect across multiple academic capstones.
-- 🏆 **Award-Winning Innovator:** Champion at DEVDASH CSIT Hackathon 2026, Champion at 1st Western Visayas Innovative Startup Fest 2024, 1st Runner Up Concentrix Robotics (National), Top 4 WV Tech Awards, Top 20 PSC 2023.
+- 🏆 **Award-Winning Innovator:** Champion at DEVDASH CSIT Hackathon 2026, Champion at 1st Western Visayas Innovative Startup Fest 2024, 1st Runner Up Concentrix Robotics (National), Top 4 WV Tech Startup Challenge 2024, and multiple hackathon recognitions.
 - 🤝 **Currently:** Open for OJT, collaborations, and tech opportunities!
 
 ---
@@ -24,19 +24,19 @@
 ### 💻 Comprehensive Tech Stack.
 
 **Frontend, UI & 3D Web**  
-![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00C58E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7ED?style=for-the-badge&logo=quasar&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Mobile & Desktop App Development**  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23ffffff) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Backend APIs, DevOps & Cloud**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Database, Web3 & Offline State**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Dexie.js](https://img.shields.io/badge/Dexie.js-FFB73D?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Web3](https://img.shields.io/badge/Web3-121212?style=for-the-badge&logo=web3.js&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-4C8BF5?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 **Hardware, AI, & Advanced Tooling**  
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -61,6 +61,8 @@
 ---
 
 ### 📂 Complete Portfolio of Projects & Systems.
+
+> Note: This portfolio includes client work, internal systems, and university projects. Not every item below is a public GitHub repository.
 
 #### 🏥 Health & Medical Systems
 | Project Name | Description | Role |
@@ -118,7 +120,46 @@
 
 ### 📈 GitHub Contributions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapbox1212&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rapbox1212&theme=transparent&hide_border=true&title_color=black&text_color=black&icon_color=black" alt="GitHub Streak" />
+<div align="left">
+  <h3 style="margin: 0 0 16px;">GitHub Contributions.</h3>
 </div>
+
+<table align="center">
+  <tr>
+    <td valign="top" align="left">
+      <h3 align="center">Joseph Andrean D. De La Cruz's GitHub Stats</h3>
+      <img src="https://img.shields.io/badge/Total%20Stars%20Earned-0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars Earned" />
+      <br/>
+      <img src="https://img.shields.io/badge/Total%20Commits%20(last%20year)-1-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
+      <br/>
+      <img src="https://img.shields.io/badge/Total%20PRs-0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Total PRs" />
+      <br/>
+      <img src="https://img.shields.io/badge/Total%20Issues-0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Total Issues" />
+      <br/>
+      <img src="https://img.shields.io/badge/Contributed%20to%20(last%20year)-0-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Contributed to" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rapbox1212&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=0ea5e9&text_color=ffffff&icon_color=0ea5e9&ring_color=0ea5e9&bg_color=00000000" alt="GitHub Stats" width="220" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <img src="https://img.shields.io/badge/955-Total%20Contributions-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+      </td>
+      <td align="center" width="220">
+        <img src="https://img.shields.io/badge/1-Current%20Streak-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Current Streak" />
+      </td>
+      <td align="center" width="220">
+        <img src="https://img.shields.io/badge/13-Longest%20Streak-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Longest Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rapbox1212&theme=dark&hide_border=true&background=00000000&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=0EA5E9&sideNums=0EA5E9&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</p>
